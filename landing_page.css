@@ -1,0 +1,25 @@
+.leftside, .rightside {
+    height: 100%;
+    width: 100%;
+  }
+  .leftside {
+      background-color: white;
+  }
+  .rightside {
+      background-color: #F2E2D3;
+      /* align-items: center;
+      justify-content: center; */
+  }
+  .logo{
+      height: 76px;
+  width: 225px;
+  left: 13px;
+  top: 9px;
+  border-radius: 0px;
+  
+  }
+  h1{
+      font-family: 'Roboto Slab';
+  }
+
+  
